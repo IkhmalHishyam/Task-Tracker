@@ -1,4 +1,4 @@
-# vue-tuto-2021
+# vue-train
 
 ## Project setup
 ```
